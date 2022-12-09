@@ -4,4 +4,4 @@ This project has been completed for "Data Base Management Systems" course at the
 
 Used Technoogies : C# , MSSQL 
 
-All codes and database file is shared in the repository.Feel free to use for learning.
+All codes and database file are shared in the repository.Feel free to use for learning.
